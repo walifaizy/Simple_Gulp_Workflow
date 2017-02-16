@@ -1,6 +1,6 @@
 # GulpJs: Simple Workflow for frontend developers
 Repository is focusing on Frontend workflows.
-![Building a Data-Driven App with AngularJS](https://engineroom.teamwork.com/wp-content/uploads/2015/11/a.png)
+(https://engineroom.teamwork.com/wp-content/uploads/2015/11/a.png)
 
 
 ## Topics include:
