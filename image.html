@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        .media {
+            display: inline-block;
+            position: relative;
+        }
+        
+        .media_image {
+            display: block;
+            max-width: 100%;
+        }
+        
+        .media_body {
+            background: rgba(41, 128, 185, 0.7);
+            position: absolute;
+            color: white;
+            bottom: 0;
+            top: 0;
+            right: 0;
+            left: 0;
+            font-size: 1em;
+            opacity: 0;
+            transition: 0.6s;
+            overflow: hidden;
+            text-align: center;
+            padding: 3.75em 3em;
+            max-width: 100%;
+        }
+        
+        .media_body:hover {
+            opacity: 1;
+        }
+        /*.media_body:after,
+        .media_body:before {
+            border: 1px solid rgba(255, 255, 255, 0.7);
+            bottom: 1em;
+            content: '';
+            left: 1em;
+            opacity: 0;
+            position: absolute;
+            right: 1em;
+            top: 1em;
+            -webkit-transform: scale(1.5);
+            -ms-transform: scale(1.5);
+            transform: scale(1.5);
+            -webkit-transition: 0.6s 0.2s;
+            transition: 0.6s 0.2s;
+        }
+        
+        .media_body:before {
+            border-bottom: none;
+            border-top: none;
+            left: 2em;
+            right: 2em;
+        }
+        
+        .media_body:after {
+            border-left: none;
+            border-right: none;
+            bottom: 2em;
+            top: 2em;
+        }
+        
+        .media_body:hover:after,
+        .media_body:hover:before {
+            -webkit-transform: scale(1);
+            -ms-transform: scale(1);
+            transform: scale(1);
+            opacity: 1;
+        }*/
+        
+        .media_body h2 {
+            margin-top: 0;
+        }
+        
+        .media_body p {
+            margin-bottom: 1.5em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="media">
+        <img src="http://lorempixel.com/400/300/animals" class="media_image">
+        <div class="media_body">
+            <h1>Title</h1>
+            <p>Description</p>
+        </div>
+    </div>
+</body>
+
+</html>
