@@ -1,4 +1,17 @@
-A simple Gulp workflow for frontend
+# GulpJs: Simple Workflow for frontend developers
+Repository is focusing on Frontend workflows.
+
+
+
+## Topics include:
+- CSS and Javascript Concatination
+- Image Compression
+- plumber
+- CSS Autoprefixer
+- CSS and Javascript minification
+- Deleting Folders
+- Live Reload
+- Gulp Watch and many more
 
 ## Instructions
 
