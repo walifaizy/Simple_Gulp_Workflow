@@ -1,6 +1,6 @@
 # GulpJs: Simple Workflow for frontend developers
 Repository is focusing on Frontend workflows.
-(https://engineroom.teamwork.com/wp-content/uploads/2015/11/a.png)
+![Gulpjs workflow](https://engineroom.teamwork.com/wp-content/uploads/2015/11/a.png)
 
 
 ## Topics include:
